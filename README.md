@@ -1,8 +1,4 @@
-# Webarq 2024
-
-This starter kit has been configured in the nuxt config, views, assets, styling (not yet using tailwind/milligram CSS), routing, seo and meta data.
-
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# Laravel Assisment
 
 ## Setup
 
